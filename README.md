@@ -1,3 +1,9 @@
+Do not use this plugin. 
+
+Comment from [5igm4](https://www.reddit.com/user/5igm4/) on reddit
+> If you press the leader key you should already have suggestions. Plus: in lazyvim leader key+sk will give you all the command in searchable format
+
+
 # LazyVim Cheatsheet
 
 A neovim plugin that displays a comprehensive cheatsheet for LazyVim keybindings in a floating window.
